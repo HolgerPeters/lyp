@@ -1,8 +1,8 @@
 source "http://rubygems.org"
 
-gem "httpclient", "~>2.7.1"
-gem "ruby-progressbar", "~>1.7.5"
-gem "thor", "~>0.20.0"
+gem "httpclient", "~>2.8.3"
+gem "ruby-progressbar", "~>1.10.1"
+gem "thor", "~>1.0.1"
 gem "directory_watcher", "1.5.1"
 gem "rugged", ">=0.26.0"
 
